@@ -74,7 +74,7 @@ export const DossierView: React.FC = () => {
               <div className="text-xs text-zinc-500 font-mono mt-0.5">PneumoVibe_Solar_Cleaning_Drone.pdf</div>
             </div>
             <a
-              href="https://github.com/Yasen-A7med/pneumovibe-mission-control"
+              href="https://github.com/Yasen-A7med/PneumoVibe"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2.5 rounded-full bg-white/10 text-white hover:bg-white/20 transition-colors"
@@ -89,7 +89,7 @@ export const DossierView: React.FC = () => {
               <div className="text-xs text-zinc-500 font-mono mt-0.5">Benban 50 MWp Field Model (300 DPI)</div>
             </div>
             <a
-              href="https://github.com/Yasen-A7med/pneumovibe-mission-control"
+              href="https://github.com/Yasen-A7med/PneumoVibe"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2.5 rounded-full bg-white/10 text-white hover:bg-white/20 transition-colors"

@@ -86,14 +86,20 @@ $$\Delta \theta = \arcsin\left(\frac{F_{\text{recoil}}}{4 \cdot T_{\text{rotor}}
 
 ---
 
+## 🌐 Live Production Deployment
+- **Live Platform URL:** [https://pneumovibe.vercel.app/](https://pneumovibe.vercel.app/)
+- **GitHub Repository:** [https://github.com/Yasen-A7med/PneumoVibe](https://github.com/Yasen-A7med/PneumoVibe)
+
+---
+
 ## 🏃 Quick Start (Local Development)
 
 ```bash
 # Clone the repository
-git clone https://github.com/Yasen-A7med/pneumovibe-mission-control.git
+git clone https://github.com/Yasen-A7med/PneumoVibe.git
 
 # Navigate to project directory
-cd pneumovibe-mission-control
+cd PneumoVibe
 
 # Install dependencies
 npm install
